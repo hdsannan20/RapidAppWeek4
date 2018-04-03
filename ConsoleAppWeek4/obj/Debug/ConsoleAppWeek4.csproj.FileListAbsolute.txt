@@ -1,0 +1,7 @@
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\bin\Debug\ConsoleAppWeek4.exe.config
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\bin\Debug\ConsoleAppWeek4.exe
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\bin\Debug\ConsoleAppWeek4.pdb
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\obj\Debug\ConsoleAppWeek4.csprojResolveAssemblyReference.cache
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\obj\Debug\ConsoleAppWeek4.csproj.CoreCompileInputs.cache
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\obj\Debug\ConsoleAppWeek4.exe
+C:\Users\hdsan\OneDrive\Documents\Rapid App Repo\ConsoleAppWeek4\ConsoleAppWeek4\obj\Debug\ConsoleAppWeek4.pdb
